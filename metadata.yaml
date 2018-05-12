@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31199'
     url: http://www.gutenberg.org/2009/agents/31199
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25269#Elements-of-Plumbing
 gutenberg_bookshelf:
 - Crafts
 - Technology
